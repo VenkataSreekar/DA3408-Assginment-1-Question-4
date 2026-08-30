@@ -1,0 +1,5 @@
+outs:
+- md5: f5af6ab16edd4debc138c261f19ecc99
+  size: 22474677
+  hash: md5
+  path: mnist_784.npz
